@@ -3,7 +3,6 @@ from datetime import time
 
 # Create your models here.
 
-
 class Room(models.Model):
     name = models.CharField(max_length=50)
     floor = models.IntegerField()

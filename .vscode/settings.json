@@ -1,5 +1,9 @@
 {
     "python.analysis.extraPaths": [
         "meeting_planner"
-    ]
+    ],
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "terminal.integrated.env.windows": {
+
+    }
 }
